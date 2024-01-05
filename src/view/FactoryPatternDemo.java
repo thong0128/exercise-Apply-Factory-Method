@@ -38,6 +38,5 @@ public class FactoryPatternDemo {
                 System.out.println("Please input again");
             }
         }
-
     }
 }
